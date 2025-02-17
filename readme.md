@@ -5,7 +5,7 @@
 
 A full-stack weather monitoring application with user authentication and real-time weather data integration.
 
-![Weather Flowchart](./screenshots/dashboard.png)
+[Weather  Flowchart]![Image](https://github.com/user-attachments/assets/70779f79-ab44-4ad5-8fe4-db071325e977)
 
 
 
