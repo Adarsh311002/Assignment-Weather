@@ -7,6 +7,9 @@ A full-stack weather monitoring application with user authentication and real-ti
 
 [Weather  Flowchart]![Image](https://github.com/user-attachments/assets/70779f79-ab44-4ad5-8fe4-db071325e977)
 
+## Demo Video
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/880c3b565f094c15a04d57e815fa1fdc-00001.gif)](https://www.loom.com/share/880c3b565f094c15a04d57e815fa1fdc)
 
 
 ## Features ✨
