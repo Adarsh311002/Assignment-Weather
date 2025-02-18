@@ -9,7 +9,7 @@ A full-stack weather monitoring application with user authentication and real-ti
 
 ## Demo Video
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/880c3b565f094c15a04d57e815fa1fdc-00001.gif)](https://www.loom.com/share/880c3b565f094c15a04d57e815fa1fdc)
+[Loom Video Link](https://www.loom.com/share/880c3b565f094c15a04d57e815fa1fdc)
 
 
 ## Features ✨
